@@ -1,0 +1,112 @@
+.outerbox {
+    padding: 45px;
+    
+}
+.container {
+    margin: 0px 500px 0px 250px;
+    padding: 0px 50px;
+}
+.box {
+    border:2px solid black;
+    background:white;
+    padding: auto;
+    width: 215%;
+    height: 160%;
+    
+}
+.user {
+    padding-bottom: 0px;
+}
+.l1 {
+    display: inline-block;
+    width: 6em;
+    margin-right: 5.5em;
+    padding-top: 1.5em;
+    font-size: 15;
+}
+.firstname {
+    display: inline-block;
+    width: 13em;
+    position: relative;
+    top: -3em;
+    border: 2px solid black;
+   
+}
+.lastname {
+    display: inline-block;
+    width: 13em;
+    position: relative;
+    top: -3em;
+    border: 2px solid black;
+}
+.email[type=text] {
+    display: inline-block;
+    width: 25em;
+    position: relative;
+    top: -3em;
+    border: 2px solid black;
+   
+}
+.exp {
+    margin: 5px;
+    text-align: left 5px;
+}
+.rating {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+  }
+
+  .rating>span {
+    display: inline-block;
+    position: relative;
+    width: 1.1em;
+  }
+
+  .empty {
+    padding: 0px 30px;
+  }
+
+  .vus {
+    padding: 1px 30px;
+  }
+
+  .us {
+    padding: 1px 30px;
+  }
+
+  .neu {
+    padding: 1px 30px;
+  }
+
+  .sat {
+    padding: 1px 30px;
+  }
+  .button {
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-top: 7px;
+    margin: 5px 0px 5px;
+    background-color: #f8f2f2;
+    opacity: 20%;
+
+  }
+  input[type=radio] {
+    margin: 0px 25px;
+    background-color: rgb(26, 26, 26);
+
+  }
+
+  .tr1 {
+    background-color: rgb(220, 222, 235);
+    opacity: 45%;
+    margin: 5px 0px 5px 0px;
+    font-size: 13px;
+  }
+  .tr2 {
+    background-color: rgb(220, 222, 235);
+    opacity: 45%;
+    margin: 5px 0px 5px 0px;
+    font-size: 13px;
+  }
+
+
